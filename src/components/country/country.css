@@ -1,0 +1,13 @@
+.country {
+  border: 1px solid gold;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+img {
+  width: 200px;
+}
+
+.country-visited {
+  background-color: antiquewhite;   
+}
